@@ -5,8 +5,18 @@
         "text": "Hey there!"
     },
     {
-        "id": 1420070400000,
+        "id": 1422323070400000,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 44543535342353,
+        "author": "Jun Zheng",
+        "text": "Jun is a programmer"
+    },
+    {
+        "id": 142043534435990,
+        "author": "Damien Whitten",
+        "text": "Damien is a senior programmer"
     }
 ]
